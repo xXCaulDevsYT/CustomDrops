@@ -1,0 +1,5 @@
+name: CustomDrops
+main: EmeraldMC\CustomDrops\Main
+version: 1.0
+api: [3.0.0, 3.2.4]
+author: EmeraldMC
