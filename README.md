@@ -3,6 +3,8 @@
 █──▄─█──█──▀▄──█──█──█─█─▀─█  █─█─██▀─█──█─█▀───▀▄
 ─▀▀───▀▀──▀▀───▀───▀▀──▀───▀  ▀▀──▀─▀──▀▀──▀───▀▀─
 ```
+[![](https://poggit.pmmp.io/shield.state/CustomDrops)](https://poggit.pmmp.io/p/CustomDrops)
+<a href="https://poggit.pmmp.io/p/CustomDrops"><img src="https://poggit.pmmp.io/shield.state/CustomDrops"></a>
 
 ```
 Allows you to set custom drops from mobs or bosses
